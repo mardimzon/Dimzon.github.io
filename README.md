@@ -2,9 +2,9 @@
 
 <h1 align="center"><strong>Mark Allen Rhoy Dimzon</strong></h1>
 <h1 align="center">CPE31S4</h1>
-<h2 align="center">MANAGING ENTERPRISE FINAL PROJECT</h2>
+<h2 align="center">MANAGING ENTERPRISE CPE 232</h2>
 
-<h1 align="center">Final Project (CPE 232)</h1>
+<h1 align="center">Final Project </h1>
 
 <p><strong>Prelim Period: </strong></p>
 
@@ -48,6 +48,6 @@
 
 - I’m currently learning **Managing Enterprise Servers**
 
-<body align="left"> **RELECTIONS:** Throughout this course, I've gained practical and knowledge. I now proficiently establish connected servers through SSH, craft YAML files for system updates and installations, and leverage Ansible for script-based management of remote servers via SSH. The use of tags and roles has enhanced task filtering and organization. Additionally, I've acquired the ability to create resource-efficient containers while implementing Ansible roles and tasks. I'm confident that the insights gained from this course will significantly contribute to my effectiveness in future professional endeavors..</body>
+<body align="left"> My learnings throughout this course it that I've gained practical and knowledge. I now proficiently establish connected servers through SSH, craft YAML files for system updates and installations, and leverage Ansible for script-based management of remote servers via SSH. The use of tags and roles has enhanced task filtering and organization. Additionally, I've acquired the ability to create resource-efficient containers while implementing Ansible roles and tasks. I'm confident that the insights gained from this course will significantly contribute to my effectiveness in future professional endeavors..</body>
 
 - My Contact **qmardimzon@tip.edu.ph**
