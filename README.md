@@ -48,6 +48,6 @@
 
 - I’m currently learning **Managing Enterprise Servers**
 
-<body align="left">Throughout this course, I've gained practical and knowledge. I now proficiently establish connected servers through SSH, craft YAML files for system updates and installations, and leverage Ansible for script-based management of remote servers via SSH. The use of tags and roles has enhanced task filtering and organization. Additionally, I've acquired the ability to create resource-efficient containers while implementing Ansible roles and tasks. I'm confident that the insights gained from this course will significantly contribute to my effectiveness in future professional endeavors..</body>
+<body align="left"> **RELECTIONS:** Throughout this course, I've gained practical and knowledge. I now proficiently establish connected servers through SSH, craft YAML files for system updates and installations, and leverage Ansible for script-based management of remote servers via SSH. The use of tags and roles has enhanced task filtering and organization. Additionally, I've acquired the ability to create resource-efficient containers while implementing Ansible roles and tasks. I'm confident that the insights gained from this course will significantly contribute to my effectiveness in future professional endeavors..</body>
 
 - My Contact **qmardimzon@tip.edu.ph**
