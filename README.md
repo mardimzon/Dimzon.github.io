@@ -1,6 +1,6 @@
 # Dimzon.github.io
 
-<h1 align="center"><strong>Mark Allen Rhoy Dimzon/strong></h1>
+<h1 align="center"><strong>Mark Allen Rhoy Dimzon</strong></h1>
 <h1 align="center">CPE31S4</h1>
 <h2 align="center">MANAGING ENTERPRISE FINAL PROJECT</h2>
 
