@@ -12,9 +12,9 @@
 
 - Hands-on Activity 2 [SSH Key-Based Authentication and GIT Setup](https://github.com/mardimzon/HOA2.git)
 
-- Hands-on Activity 3 [Install SSH server on CentOS or RHEL 8]()
+- Hands-on Activity 3 [Install SSH server on CentOS or RHEL 8](https://github.com/mardimzon/HOA3.git)
 
-- Hands-on Activity 4 [Ansible Basics]()
+- Hands-on Activity 4 [Ansible Basics](https://github.com/mardimzon/HOA4.git)
 
 - Hands-on Activity 5 [Implementing Ansible roles in playbooks]()
 
@@ -32,7 +32,7 @@
 
 - Hands-on Activity 10 [Install, Configure and Manage Enterprise Log Monitoring via Ansible](https://github.com/mardimzon/HOA10.git)
 
-- Midterm Exam [Major Examination]()
+- Midterm Exam [Major Examination](https://github.com/mardimzon/CPE_MIDEXAM_DIMZON.git)
 
 <p><strong>Final Period: </strong></p>
 
@@ -48,6 +48,6 @@
 
 - I’m currently learning **Managing Enterprise Servers**
 
-<body align="left">In this course, I have learned how to implement what I have learned before about the Linux OS, and apply it onto this course. I have learned how to create connected servers using ssh, I have learned how to create yaml files that do system updates, installations, and the likes. I have learned how to use ansible to make use of scripts to manage other servers with the use of ansibe and ssh. I have learned to use tags and roles to create a better filtering for tasks. I have learned how to create containers to conserve resources and still apply ansible roles and tasks. This course has taught me a lot, and I believe that it will make me a better worker in the future.</body>
+<body align="left">Throughout this course, I've gained practical and knowledge. I now proficiently establish connected servers through SSH, craft YAML files for system updates and installations, and leverage Ansible for script-based management of remote servers via SSH. The use of tags and roles has enhanced task filtering and organization. Additionally, I've acquired the ability to create resource-efficient containers while implementing Ansible roles and tasks. I'm confident that the insights gained from this course will significantly contribute to my effectiveness in future professional endeavors..</body>
 
-- 📫 How to reach me **qkgallave@tip.edu.ph**
+- My Contact **qmardimzon@tip.edu.ph**
