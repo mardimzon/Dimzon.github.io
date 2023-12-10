@@ -18,25 +18,25 @@
 
 - Hands-on Activity 5 [Implementing Ansible roles in playbooks]()
 
-- Prelim Examination [Major Examination]()
+- Prelim Examination [Major Examination](https://github.com/mardimzon/Dimzon_PrelimExam.git)
 
 <p><strong>Midterm Period: </strong></p>
 
-- Hands-on Activity 6 [Targeting specific nodes]()
+- Hands-on Activity 6 [Targeting specific nodes](https://github.com/mardimzon/HOA6.git)
 
-- Hands-on Activity 7 [Managing files and Creating Roles in Ansible]()
+- Hands-on Activity 7 [Managing files and Creating Roles in Ansible](https://github.com/mardimzon/HOA7.git)
 
-- Hands-on Activity 8 [Install, Configure and Manage Enterprise Availability Monitoring via Ansible]()
+- Hands-on Activity 8 [Install, Configure and Manage Enterprise Availability Monitoring via Ansible](https://github.com/mardimzon/HOA8.git)
 
-- Hands-on Activity 9 [Install, Configure and Manage Enterprise Performance Monitoring via Ansible](HOA9)
+- Hands-on Activity 9 [Install, Configure and Manage Enterprise Performance Monitoring via Ansible](https://github.com/mardimzon/HOA9.git)
 
-- Hands-on Activity 10 [Install, Configure and Manage Enterprise Log Monitoring via Ansible](HOA10)
+- Hands-on Activity 10 [Install, Configure and Manage Enterprise Log Monitoring via Ansible](https://github.com/mardimzon/HOA10.git)
 
 - Midterm Exam [Major Examination]()
 
 <p><strong>Final Period: </strong></p>
 
-- Hands-on Activity 11 [Containerization]()
+- Hands-on Activity 11 [Containerization](https://github.com/mardimzon/HOA11.git)
 
 - Hands-on Activity 12 [Build a sample web app in a Docker Container](https://github.com/mardimzon/act12.git)
 
