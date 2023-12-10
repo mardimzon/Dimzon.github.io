@@ -16,7 +16,7 @@
 
 - Hands-on Activity 4 [Ansible Basics](https://github.com/mardimzon/HOA4.git)
 
-- Hands-on Activity 5 [Implementing Ansible roles in playbooks]()
+- Hands-on Activity 5 [Implementing Ansible roles in playbooks](https://github.com/mardimzon/HOA5.git)
 
 - Prelim Examination [Major Examination](https://github.com/mardimzon/Dimzon_PrelimExam.git)
 
@@ -46,8 +46,7 @@
 
 - Hands-on Activity 15 [Openstack Installation(Neutron, Horizon, Cinder)](https://github.com/mardimzon/HOA15.git)
 
-- I’m currently learning **Managing Enterprise Servers**
-
-<body align="left"> My learnings throughout this course it that I've gained practical and knowledge. I now proficiently establish connected servers through SSH, craft YAML files for system updates and installations, and leverage Ansible for script-based management of remote servers via SSH. The use of tags and roles has enhanced task filtering and organization. Additionally, I've acquired the ability to create resource-efficient containers while implementing Ansible roles and tasks. I'm confident that the insights gained from this course will significantly contribute to my effectiveness in future professional endeavors..</body>
+<p><strong>MY LEARNINGS FROM THIS COURSE</strong></p>
+<body align="left">  throughout this course it that I've gained practical and knowledge. I now proficiently establish connected servers through SSH, craft YAML files for system updates and installations, and leverage Ansible for script-based management of remote servers via SSH. The use of tags and roles has enhanced task filtering and organization. Additionally, I've acquired the ability to create resource-efficient containers while implementing Ansible roles and tasks. I'm confident that the insights gained from this course will significantly contribute to my effectiveness in future professional endeavors..</body>
 
 - My Contact **qmardimzon@tip.edu.ph**
